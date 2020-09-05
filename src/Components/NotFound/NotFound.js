@@ -1,12 +1,11 @@
 import React from 'react';
 import { Button } from '@material-ui/core';
-
-const Details = () => {
+const NotFound = () => {
     return (
         <div>
-            <h2>This is details</h2>
+            <h2>404 not found</h2>
         </div>
     );
 };
 
-export default Details;
+export default NotFound;

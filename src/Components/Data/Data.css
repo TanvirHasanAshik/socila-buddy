@@ -1,0 +1,12 @@
+.body{
+    margin: 10px;
+    margin-left: 25px;
+    float: left;
+}
+.postData{
+    display: flex;
+    width: 300px;
+    /* height: 350px; */
+}
+
+    
