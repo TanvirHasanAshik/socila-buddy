@@ -1,8 +1,11 @@
-.body{
+.commentBody{
   
-    margin: 50px;
+    margin: 5px;
     margin-left: 25px;
     /* float: left; */
+}
+img{
+    border-radius: 50%;
 }
 .postData{
     margin: auto;
@@ -10,5 +13,3 @@
     width: 600px;
     /* height: 350px; */
 }
-
-    

@@ -1,9 +1,11 @@
 import React from 'react';
-import { Button } from '@material-ui/core';
+import './NotFound.css'
 const NotFound = () => {
     return (
-        <div>
-            <h2>404 not found</h2>
+        <div className="NotFoundBody">
+            <div className="NotFound"> 
+                <h1>404 Not Found</h1>
+            </div>
         </div>
     );
 };

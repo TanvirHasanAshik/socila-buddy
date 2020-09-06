@@ -1,0 +1,10 @@
+.NotFoundBody {
+    color: red;
+    width: 50%;
+    margin: auto;
+    margin-top: auto;
+    text-align: center;
+    padding: 100px 0px 100px 0px;
+    margin-top: 10%;
+    font-size: 30px;
+}
